@@ -6,9 +6,9 @@
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [Husna Fathima R] - [College of engineering pathanapuram]
+- Member 2: [Fathima Hashim] - [College of engineering pathanapuram]
+- Member 3: [Sreelekshmi] - [College of engineering pathanapuram]
 
 ### Hosted Project Link
 [mention your project hosted project link here]
@@ -17,16 +17,16 @@
 [2-3 lines about what your project does]
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[The pervasive issue of mood fluctuations, often exacerbated by online content and daily stressors, makes it difficult for individuals to effectively track their emotional state and find timely, personalized strategies for improvement, hindering their ability to proactively manage their well-being and cultivate a positive online experience]
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[We're tackling the "blah" and the "blehs" with a mood-boosting browser extension!  Think of it as your pocket-sized pep squad, ready to jump into action whenever digital day takes a dip.  We're solving the problem of scattered moods and scrambling for solutions by putting everything  need—mood tracking, personalized pick-me-ups, and helpful resources—right at your fingertips .  So, instead of doomscrolling, you can track your feels, get a digital high-five  and find resources to help you conquer the internet  with a smile.  We're basically turning it  browser into a well-being wonderland, one mood log at a time!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [HTML,CSS,JAVASCRIPT]
+- [Axios,
 - [Libraries used]
 - [Tools used]
 
