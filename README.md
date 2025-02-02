@@ -1,17 +1,17 @@
-# [cheer-UP] 🎯
+# cheer-UP 🎯
 
 
 ## Basic Details
-### Team Name: [Techiez]
+### Team Name: Techiez
 
 
 ### Team Members
-- Member 1: [Husna Fathima R] - [College of engineering pathanapuram]
+- Member 1: Husna Fathima R- [College of engineering pathanapuram]
 - Member 2: [Fathima Hashim] - [College of engineering pathanapuram]
 - Member 3: [Sreelekshmi] - [College of engineering pathanapuram]
 
 ### Hosted Project Link
-[its a chrome extension]
+its a chrome extension
 
 ### Project Description
 [2-3 lines about what your project does]Project description 
